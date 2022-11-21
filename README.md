@@ -6,7 +6,9 @@ By Cyril Odoi
 
 ## Dataset
 
-The data consists of information regarding approximately 114,000 loan applications by Borrowers in the United States over the period 2009 to 2014, includineg. BorrowerRate, ProsperScores, IncomeRange and DebtToIncomeRatio. The dataset can be found here: https://www.google.com/url?q=https://s3.amazonaws.com/udacity-hosted-downloads/ud651/prosperLoanData.csv&sa=D&ust=1547358770029000 and with feature documentation available [here]: https://tinyurl.com/UdacityProject
+The data consists of information regarding approximately 114,000 loan applications by Borrowers in the United States over the period 2009 to 2014, includineg. BorrowerRate, ProsperScores, IncomeRange and DebtToIncomeRatio. 
+The dataset can be found here: https://www.google.com/url?q=https://s3.amazonaws.com/udacity-hosted-downloads/ud651/prosperLoanData.csv&sa=D&ust=1547358770029000;
+and with feature documentation available [here]: https://tinyurl.com/UdacityProject
 
 
 ## Summary of Findings
@@ -22,11 +24,11 @@ For the presentation, I focus on the effects of Borrower location, Borrower Rate
 
 ## Resources
 
-Prosper data dictionary[https://docs.google.com/spreadsheets/d/1gDyi_L4UvIrLTEC6Wri5nbaMmkGmLQBk-Yx3z0XDEtI/edit#gid=0]
-pandas documenation
-matplitlib documentation
-seaborn documentation
-Example Project from Udacity
-https://www.w3schools.com/
-StackOverflow
+1. Prosper data dictionary[https://docs.google.com/spreadsheets/d/1gDyi_L4UvIrLTEC6Wri5nbaMmkGmLQBk-Yx3z0XDEtI/edit#gid=0]
+2. pandas documenation
+3. matplitlib documentation
+4. seaborn documentation
+5. Example Project from Udacity
+6. https://www.w3schools.com/
+7. StackOverflow
 
